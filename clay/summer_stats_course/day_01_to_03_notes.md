@@ -706,7 +706,7 @@ versus
 
 The 95% confidence interval for the prediction -- If x = 20, what value do you get for y? The CI for the prediction is larger than the CI for the mean.
 
-**The `SCORE` Procedure**
+#### The `SCORE` Procedure
 
 The `SCORE` procedure multiplies values from two SAS data sets, one containing coefficients (for example, factor-scoring coefficients or regression coefficients) and the other containing raw data to be scored using the coefficients from the first data set. The result of this multiplication is a SAS data set that contains linear combinations of the coefficients and the raw data values.
 
